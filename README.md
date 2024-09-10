@@ -9,7 +9,7 @@
  - git add - 파일 스테이지에 등록
  - git commit -m "커밋메시지" - add한 파일을 git에 저장시킴
  - git push 깃저장소이름 브런치이름 - 커밋한 파일들을 git DB에 등록
-
+--------
  - Pull requests : 수정된 코드를 보내고 수정을 요청함
  - Merge : 수정된 코드를 병합 (방식에 따라 종류가 많음)
    
