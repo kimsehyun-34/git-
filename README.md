@@ -12,6 +12,5 @@
 --------
  - Pull requests : 수정된 코드를 보내고 수정을 요청함
  - Merge : 수정된 코드를 병합 (방식에 따라 종류가 많음)
-   
-포크: 다른 환경의 공간을 내공간으로 복사해 오는것(수정할시 상위 저장소에 Pull requests 요청해야함)
--> 상위 사용자의 경우 Pull requests가 올경우 Merge 를 해야 수정이 완료됨
+ - Fork: 다른 Repository에 저장된 파일을 내 Repository로 복사해 오는것(수정할시 상위 저장소에 Pull requests 요청해야함)
+   - 상위 사용자의 경우 Pull requests가 올경우 Merge 를 해야 수정이 완료됨
