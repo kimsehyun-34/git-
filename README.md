@@ -26,3 +26,7 @@ git add .
 git commit -m "F-수정내용"
 git push origin main --force
 ```
+> 기존 원격 저장소 제거
+```
+git remote remove origin
+```
