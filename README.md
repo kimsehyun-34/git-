@@ -1,5 +1,4 @@
 # git- 필수 명령어
-모르면 진짜 안됨!!
 
 -------------
 > DB에서 가지고옴
@@ -26,7 +25,12 @@ git add .
 git commit -m "F-수정내용"
 git push origin main --force
 ```
+--------
 > 기존 원격 저장소 제거
 ```
 git remote remove origin
+```
+> 새 원격 저장소 할당
+```
+git remote add origin https://주소
 ```
