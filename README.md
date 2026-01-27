@@ -13,7 +13,7 @@
  - `git push 깃저장소이름 브런치 이름` - commit한 파일들을 Global git DB(ex:github)에 등록
 --------
 > 롤백 방법
-- `git log` : 커밋 히스토리 확인, 롤백하려는 커밋의 해시
+- `git log` : 커밋 히스토리 확인, 롤백하려는 커밋의 Hash확인
 - `git reset --hard <커밋 해시>` : 입력한 포인트로 롤백
 --------
 
