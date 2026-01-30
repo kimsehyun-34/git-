@@ -42,7 +42,7 @@ git remote add origin <URL>
 ```
 -------
 > 스테이징 캐쉬삭제 (중복 add로 스테이징 영역이 부족할떄)
-`
+```
 git rm -r --cached .
 git add .
-`
+```
