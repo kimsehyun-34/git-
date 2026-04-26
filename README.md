@@ -1,6 +1,8 @@
 # git- 필수 명령어
 > 주의사항 : 명령어 중 `<>`괄호로 설명되는 경우 제거후 값 입력
 
+![git_ex_img](https://github.com/kimsehyun-34/git-/blob/main/git.png)
+
 ## Git 필수명령어
 -------------
 > DB에서 가지고옴
